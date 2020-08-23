@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 👨 I’m currently working for <a href="https://www.revolgy.com/" target="_blank" >Revolgy</a>
-<a onclick="window.open(this.href,'_blank');return false;" href="http://www.foracure.org.au">Some Other Site</a>
+<a onclick="window.open(this.href,'_blank');return false;" href="https://www.revolgy.com/">Revolgy</a>
 
 
 - 🔭 I’m currently working on my GCP PCA Certificate
